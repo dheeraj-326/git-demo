@@ -6,3 +6,7 @@
 #change E-master_copy
 #change X-please_conflict
 #hello world
+a=5
+b=6
+sum=a+b
+print(sum)
